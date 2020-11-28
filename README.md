@@ -1,2 +1,2 @@
-# GSGO-project-20
-not CS-GO
+# p5.play-boilerplate
+Boiler plate for p5.play
